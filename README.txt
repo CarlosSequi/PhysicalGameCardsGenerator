@@ -1,0 +1,1 @@
+Physical cards generator for boardgames.
